@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🛰️ Linguagens: <strong><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>, <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>.</strong>
+  🛰️ Linguagens: <strong>JavaScript, C#.</strong>
 </p>
 
 <p align="left">
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 
+<div align="center">
 [![Willian-Louback](https://github-readme-stats.vercel.app/api?username=Willian-Louback&theme=tokyonight&show_icons=true)](https://github.com/Willian-Louback/Willian-Louback/)
 [![Willian-Louback](https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Louback&hide=html&layout=compact&theme=tokyonight)](https://github.com/Willian-Louback/Willian-Louback/)
-
+</div>
