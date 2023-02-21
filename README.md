@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 
-<div align="center">
+<div justify="center">
   <a href="https://github.com/Willian-Louback/Willian-Louback/">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Willian-Louback&theme=tokyonight&show_icons=true" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Louback&hide=html&layout=compact&theme=tokyonight" />
