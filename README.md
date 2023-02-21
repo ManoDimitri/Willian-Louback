@@ -30,3 +30,5 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Louback&hide=html&layout=compact&theme=tokyonight" />
   </a>
 </div>
+
+![Snake animation](https://github.com/Willian-Louback/Willian-Louback/blob/output/github-contribution-grid-snake.svg)
